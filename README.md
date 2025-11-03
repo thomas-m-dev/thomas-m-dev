@@ -75,20 +75,7 @@
 - Cross-platform React Native app with real-time leaderboards and contest experiences
 - GraphQL subscriptions, Auth0 authentication, location-based features
 - Built from scratch, converting Next.js web app to mobile
-
-### [The Scented Market](https://play.google.com/store/apps/details?id=com.scentedmarket.app)
-- E-commerce mobile app with Web3 features and AI recommendations
-- React Native 0.76 with New Architecture, Stripe integration, offline-first capability
-- Performance improvements of ~20% startup time reduction
-
-### [ChowNow](https://play.google.com/store/apps/details?id=com.chownow.app)
-- Consumer and restaurant-facing mobile apps
-- React Native upgrade from 0.59 to 0.64, Hermes engine integration
-- 25-30% startup time improvement
-
-### [TopHap Explorer](https://apps.apple.com/app/tophap)
-- Real estate analytics mobile app with interactive maps
-- Property search, visualization, and GPS integration
+- React 19, React Native 0.79, Expo SDK 53
 
 ---
 
