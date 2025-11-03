@@ -32,37 +32,37 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/><br><sub>React</sub></td>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/><br><sub>React Native</sub></td>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35"/><br><sub>TypeScript</sub></td>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/><br><sub>JavaScript</sub></td>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35"/><br><sub>Next.js</sub></td>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35"/><br><sub>Node.js</sub></td>
-<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="35"/><br><sub>Expo</sub></td>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="35"/><br><sub>Redux</sub></td>
-<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="35"/><br><sub>GraphQL</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/><br><sub>React</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/><br><sub>React Native</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35"/><br><sub>TypeScript</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/><br><sub>JavaScript</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35"/><br><sub>Next.js</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35"/><br><sub>Node.js</sub></td>
+<td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="35"/><br><sub>Expo</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="35"/><br><sub>Redux</sub></td>
+<td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="35"/><br><sub>GraphQL</sub></td>
 </tr>
 <tr>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="35"/><br><sub>Firebase</sub></td>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/><br><sub>HTML5</sub></td>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35"/><br><sub>CSS3</sub></td>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="35"/><br><sub>SASS</sub></td>
-<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35"/><br><sub>Tailwind</sub></td>
-<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="35"/><br><sub>SQLite</sub></td>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="35"/><br><sub>Jest</sub></td>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="35"/><br><sub>GH Actions</sub></td>
-<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="35"/><br><sub>Docker</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="35"/><br><sub>Firebase</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/><br><sub>HTML5</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35"/><br><sub>CSS3</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="35"/><br><sub>SASS</sub></td>
+<td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35"/><br><sub>Tailwind</sub></td>
+<td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="35"/><br><sub>SQLite</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="35"/><br><sub>Jest</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="35"/><br><sub>GH Actions</sub></td>
+<td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="35"/><br><sub>Docker</sub></td>
 </tr>
 <tr>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/><br><sub>Git</sub></td>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/><br><sub>GitHub</sub></td>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="35"/><br><sub>Webpack</sub></td>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" width="35"/><br><sub>Babel</sub></td>
-<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="35"/><br><sub>AWS</sub></td>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="35"/><br><sub>Xcode</sub></td>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="35"/><br><sub>Android</sub></td>
-<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="35"/><br><sub>NPM</sub></td>
-<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" width="35"/><br><sub>Sentry</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/><br><sub>Git</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/><br><sub>GitHub</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="35"/><br><sub>Webpack</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" width="35"/><br><sub>Babel</sub></td>
+<td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="35"/><br><sub>AWS</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="35"/><br><sub>Xcode</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="35"/><br><sub>Android</sub></td>
+<td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="35"/><br><sub>NPM</sub></td>
+<td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" width="35"/><br><sub>Sentry</sub></td>
 </tr>
 </table>
 </div>
