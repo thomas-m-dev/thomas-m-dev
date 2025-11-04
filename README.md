@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Morris</h1>
 <p align="center">
   <a href="mailto:thomasmorris0105@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://thomas-morris-me.netlify.app/" target="blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://thomas-morris-dev.netlify.app/" target="blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ## 🚀 About Me
@@ -19,7 +19,7 @@
 <td align="center" width="50%">
 
 🤝 Open to **collaborations in Mobile Development & React Native Projects**  
-📄 [View My Portfolio](https://thomas-morris-me.netlify.app/)  
+📄 [View My Portfolio](https://thomas-morris-dev.netlify.app/)  
 📍 Based in **Austin, TX**  
 ⚡ Fun fact: **I've helped reduce app startup times by 20-30% through performance optimizations**
 
@@ -91,4 +91,4 @@
 ---
 
 ⭐ **Thanks for visiting!**  
-Let's build something amazing — [thomas-morris-me.netlify.app](https://thomas-morris-me.netlify.app/)
+Let's build something amazing — [thomas-morris-dev.netlify.app](https://thomas-morris-dev.netlify.app/)
